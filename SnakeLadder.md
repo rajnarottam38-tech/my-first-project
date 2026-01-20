@@ -1,4 +1,4 @@
-mport random as r
+import random as r
 
 n_players = int(input("Enter the number of players: "))
 d = {}
